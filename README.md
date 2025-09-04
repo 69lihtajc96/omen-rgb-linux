@@ -42,6 +42,8 @@ python3 omen-rgb.py
    * **Static Color** → presets or custom picker.
    * **Rainbow Mode** → auto-start rainbow animation.
 
+![preview_demo](assets/rgb_demo.png)
+
 ---
 
 ## 📂 Code Structure
