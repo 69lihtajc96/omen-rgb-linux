@@ -29,8 +29,8 @@ python3 omen-rgb.py
 
 * Python 3
 * PyQt5
-* https://github.com/pelrun/hp-omen-linux-module or analog
-* Access to `/sys/devices/platform/hp-wmi/rgb_zones/zone00` (via `udev` rules, without `sudo`)
+* Kernel Module - hp-omen-wmi-dkms
+* Access to `/sys/devices/platform/hp-wmi/rgb_zones/zone00`
 
 ---
 
